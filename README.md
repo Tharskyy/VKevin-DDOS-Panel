@@ -18,7 +18,7 @@ Use it to:
 - Win the "most extra personal webpage" award of 2025
 
 ### Live Demo
-https://your-username.github.io/vkevin-ddos-panel/  
+https://Tharskyy.github.io/vkevin-ddos-panel/  
 (or just open `index.html` in your browser)
 
 ### Features
